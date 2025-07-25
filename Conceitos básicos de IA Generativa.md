@@ -1,4 +1,4 @@
-# Primeiros Passos com IA – 🧠  
+# Primeiros Passos com IA – Parte 1🧠  
 Conceitos fundamentais sobre IA Generativa
 
 ## 1. O que é IA Generativa  
